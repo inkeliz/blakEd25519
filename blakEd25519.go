@@ -7,7 +7,7 @@
 
 // This package uses Blake2 instead of SHA-2 for hashing.
 
-package blackEd25519
+package blakEd25519
 
 import (
 	"bytes"
